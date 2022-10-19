@@ -6,7 +6,7 @@ using UnityEngine;
 
 namespace DomanikCummings
 {
-    public class WeekFourActivities : MonoBehaviour
+    public class Contact : MonoBehaviour
     {
         [SerializeField] private int year;
 
